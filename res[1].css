@@ -1,0 +1,23 @@
+@media screen and (max-height: 549px)
+{
+div#rightColumn{margin-top:0;}
+div#boxImage img{height:122px;}
+div#percentOffer{top:0px;}
+div#versionOffer{top:50px;}
+div#oldPrice{top:40px;}
+div#oldPriceCut{top:70px;}
+div#newPrice{top:110px;}
+div#benefits{top:140px;}
+div#buyButtonImage{top:280px;}
+div#frameLeft{height:95px;width:344px;}
+div#ring img{height:39px;}
+div#imgLink{height:95px;}
+.linkImage{height:95px;}
+div#trial{padding-right:0;}
+div#trial p{margin-bottom:1px;}
+div#trial span{font-size:18px;}
+div#ring-clear{bottom:5px;}
+div#ring-clear p{font-size:12px;}
+div#leftColumn{height:369px;}
+div#adContent{height:450px;}
+}
